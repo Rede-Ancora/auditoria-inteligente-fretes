@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794854907224,
+      "tag": "0000_freight_registrations_and_invoice_imports",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794917548316,
+      "tag": "0001_squares_belong_to_carriers_with_localities",
+      "breakpoints": true
+    }
+  ]
+}
